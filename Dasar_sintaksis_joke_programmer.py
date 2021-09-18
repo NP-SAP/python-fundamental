@@ -30,6 +30,6 @@ else:
 print("Budi pulang ke rumah")
 print("Menyampaikan hasilnya kepada ibu")
 
-..
+
 
 
